@@ -1,2 +1,0 @@
-Project Overview
-This repository contains a complex, multi-area OSPF routing topology deployed in EVE-NG. The lab simulates an enterprise-scale Wide Area Network (WAN) and Local Area Network (LAN) utilizing 14 Cisco IOL routers, 3 Layer 2 switches, and 5 Virtual PCs. The primary focus is configuring and validating OSPFv2 (Process ID 99) across an Area 0 backbone, Area 1, and Area 2.
