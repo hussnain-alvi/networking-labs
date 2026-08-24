@@ -1,2 +1,2 @@
 # networking-labs
-Collection of EVE-NG routing, switching, and firewall labs.
+Collection of EVE-NG routing and switching labs.
